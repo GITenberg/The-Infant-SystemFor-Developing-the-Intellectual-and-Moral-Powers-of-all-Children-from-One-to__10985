@@ -1,0 +1,29 @@
+_repo: The-Infant-SystemFor-Developing-the-Intellectual-and-Moral-Powers-of-all-Children-from-One-to__10985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilderspin, Samuel
+    birthdate: 1791
+    deathdate: 1866
+    gutenberg_agent_id: '3781'
+    url: http://www.gutenberg.org/2009/agents/3781
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Wilderspin
+description: ''
+gutenberg_bookshelf: Education
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'LB'
+- GITenberg
+title: 'The Infant System
+
+  For Developing the Intellectual and Moral Powers of all Children, from One to Seven
+  years of Age'
+url: http://www.gutenberg.org/ebooks/10985
